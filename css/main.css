@@ -1,0 +1,53 @@
+
+
+
+.poster {
+    width: 15vw;
+    height: 35vh;
+}
+
+.bg-color {
+    background: rgb(255, 255, 255);
+    background-repeat: round;
+}
+.bg-box {
+    background-color: rgb(204, 204, 204);
+    border-radius: 20px;
+    box-shadow: 10px 10px  rgb(189, 189, 189);
+}
+
+.boton-estilo {
+    border: solid 2px #607792;
+    width: 400px;
+    height: 260px;
+    box-shadow: 1px 1px 20px #366499;
+    margin: 2px;
+    padding: 4px;
+}
+
+.sombreado {
+    box-shadow: 0px 2px 5px;
+}
+
+
+.no-show {
+    display: none;
+}
+
+.button-chaplin {
+    background: transparent url('../images/chaplin-thumbnail.jpg') no-repeat top;
+}
+.button-hitchcock {
+    background: transparent url('../images/hitchcock-thumbnail.jpg') no-repeat top;
+}
+.button-tarkovsky {
+    background: transparent url('../images/tarkovski-thumbnail.jpg') no-repeat top;
+}
+.button-capra {
+    background: transparent url('../images/capra-thumbnail.jpg') no-repeat top;
+}
+.button-class {
+    width: 340px;
+    height: 200px;
+}
+
